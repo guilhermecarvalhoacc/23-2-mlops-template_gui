@@ -1,0 +1,9 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos gerados
+__pycache__/
+*.pyc
